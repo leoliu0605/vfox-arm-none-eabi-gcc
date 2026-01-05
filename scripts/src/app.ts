@@ -21,7 +21,7 @@ async function main() {
             for (const platform of platforms) {
                 for (const arch of architectures) {
                     try {
-                        const urlData = gcc.distributionUrl(version, platform, arch);
+                        const urlData = await gcc.distributionUrl(version, platform, arch);
                         versionsData[versionLabel][version][`${platform}_${arch}`] = {
                             url: urlData.url,
                             md5: urlData.md5,
