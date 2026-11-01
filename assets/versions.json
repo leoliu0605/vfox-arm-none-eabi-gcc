@@ -1,4 +1,28 @@
 {
+  "v39": {
+    "15.3.Rel2": {
+      "win32_x86_64": {
+        "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel2/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi.zip",
+        "md5": "3477d7149529219adcc82d16df85e8e9"
+      },
+      "win32_arm64": {
+        "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel2/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi.zip",
+        "md5": "3477d7149529219adcc82d16df85e8e9"
+      },
+      "linux_x86_64": {
+        "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel2/arm-gnu-toolchain-15.3.rel2-x86_64-arm-none-eabi.tar.xz",
+        "md5": "210e49083d52ee650eca63d98b640b10"
+      },
+      "linux_arm64": {
+        "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel2/arm-gnu-toolchain-15.3.rel2-aarch64-arm-none-eabi.tar.xz",
+        "md5": "a587c604334a38cdb53185bc66648d2d"
+      },
+      "darwin_arm64": {
+        "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel2/arm-gnu-toolchain-15.3.rel2-darwin-arm64-arm-none-eabi.tar.xz",
+        "md5": "e694fee147160222d4c697a444af36f9"
+      }
+    }
+  },
   "v38": {
     "15.3.Rel1": {
       "win32_x86_64": {
